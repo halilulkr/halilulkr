@@ -1,4 +1,10 @@
-# Java
+[![GitHub followers](https://img.shields.io/github/followers/halilulkr?style=social)](https://github.com/halilulkr?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/halilulkr?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=halilulkr.visitor-badge)](https://GitHub.com/halilulkr/StrapDown.js/stargazers/)
+
+
+# Hi 👋
+I'm Halil!
 
 <!--
 **halilulkr/halilulkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
