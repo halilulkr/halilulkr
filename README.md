@@ -12,6 +12,13 @@ I'm Halil!
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
 
+
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilulkr&hide=python&layout=compact&show_icons=true&theme=light">
+  </p>
+
+</p>
+
 <!--
 **halilulkr/halilulkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
